@@ -9,3 +9,5 @@ I wanted to try to replicate realities with a slightly more DLA algorithm.
 
 DLA is a subject of interest in many areas of science, and has been around for nearly 4 decades. It involves spawning a particle far away from a cluster of particles, and letting it
 execute a random walk until it hits the aggreagte, at which point it sticks, and the process repeats with this new cluster. Below are diagrams to aid this explanation:
+
+<img src="Diagram.png" style="width:450px;height:300px;">
