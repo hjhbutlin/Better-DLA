@@ -24,6 +24,9 @@ Working with an optimised algorithm, much larger clusters can be generated. Belo
 
 Finally, by modifying the <i>probability</i> that a particle sticks if it hits the cluster to be related to the number of bonds it would be forming (what a mouthful), the below cluster (left) was generated. The change made was a simple model of how Bismuth (right) crystallises under certain conditions.
 
-<img src="Cubic.png" style="width:300px;height:300px;"> <img src="Cubic.png" style="width:300px;height:300px;">
+<img src="Cubic.png" style="width:300px;height:300px;"> <img src="Bismuth.png" style="width:400px;height:300px;">
 
 The scale line represents 200 lattice units.
+
+The generated cube has around 2 million 'atoms' comprising it, while the block of bismuth has many orders of magnitude more. The point here is to note their similar attributes: staircase-like substructures and a higher level of cubicity in the cluster than the above, branchy 3D cluster.
+
